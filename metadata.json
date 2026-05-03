@@ -1,0 +1,6 @@
+{
+  "name": "Lekhok - Audio to SRT",
+  "description": "Convert Bengali audio narration into accurate SRT subtitles using Gemini AI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
